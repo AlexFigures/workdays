@@ -1,0 +1,10 @@
+{
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app"
+    }
+  }
+}
